@@ -37,4 +37,4 @@ Monthly totals, category totals, sorting, filtering, conditional formatting, and
 Sales increased consistently from January to June. Electronics contributed the largest share of revenue. The company should plan inventory around increasing demand, review category performance regularly, and use sales trends to guide future decisions.
 
 ## Google Sheets Link
-https://docs.google.com/spreadsheets/d/16Ij3PDNTfSSNV4Ut3AY0n-R9nc7wkUteuzxrDJR-uHM/edit?usp=sharing
+[View Monthly Sales Analysis on Google Sheets](https://docs.google.com/spreadsheets/d/16Ij3PDNTfSSNV4Ut3AY0n-R9nc7wkUteuzxrDJR-uHM/edit?usp=sharing)
